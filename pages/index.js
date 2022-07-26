@@ -145,7 +145,7 @@ const Page = () => {
           Worked at Ikon It Hub
         </BioSection>
       </Section>
-//       <Section delay={0.3}>
+      {/* //       <Section delay={0.3}>
 //         <Heading as="h3" variant="section-title">
 //           I ♥
 //         </Heading>
@@ -160,7 +160,7 @@ const Page = () => {
 //           </Link>
 //           , Leica, Machine Learning
 //         </Paragraph>
-//       </Section>
+//       </Section> */}
       <Section delay={0.3}>
         <Heading as="h3" variant="section-title">
           On the web
