@@ -128,7 +128,7 @@ const Page = () => {
         </Heading>
         <BioSection>
           <BioYear>1995</BioYear>
-          Born in Mumbai (大阪), India.
+          Born in Mumbai , India.
         </BioSection>
         <BioSection>
           <BioYear>2017</BioYear>
