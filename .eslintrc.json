@@ -1,0 +1,14 @@
+{
+    "root":true,
+    "extends":"next",
+    "rules": {
+        "no-unused-vars":[
+            "error",
+            {
+                "argsIgnorePattern":"^_",
+                "varIgnorePattern":"^_"
+            }
+        ],
+        "react/dispaly-name":0
+    }
+}
