@@ -145,22 +145,22 @@ const Page = () => {
           Worked at Ikon It Hub
         </BioSection>
       </Section>
-      <Section delay={0.3}>
-        <Heading as="h3" variant="section-title">
-          I ♥
-        </Heading>
-        <Paragraph>
-          Art, Music,{" "}
-          <Link href="https://illust.odoruinu.net/" target="_blank">
-            Drawing
-          </Link>
-          , Playing Drums,{" "}
-          <Link href="https://500px.com/p/craftzdog" target="_blank">
-            Photography
-          </Link>
-          , Leica, Machine Learning
-        </Paragraph>
-      </Section>
+//       <Section delay={0.3}>
+//         <Heading as="h3" variant="section-title">
+//           I ♥
+//         </Heading>
+//         <Paragraph>
+//           Art, Music,{" "}
+//           <Link href="https://illust.odoruinu.net/" target="_blank">
+//             Drawing
+//           </Link>
+//           , Playing Drums,{" "}
+//           <Link href="https://500px.com/p/craftzdog" target="_blank">
+//             Photography
+//           </Link>
+//           , Leica, Machine Learning
+//         </Paragraph>
+//       </Section>
       <Section delay={0.3}>
         <Heading as="h3" variant="section-title">
           On the web
